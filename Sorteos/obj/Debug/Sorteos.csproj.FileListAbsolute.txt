@@ -1,0 +1,64 @@
+E:\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+E:\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+E:\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+E:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojResolveAssemblyReference.cache
+E:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Form1.resources
+E:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+E:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.Cache
+E:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+E:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
+D:\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+D:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+D:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
+D:\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+D:\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+D:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojResolveAssemblyReference.cache
+D:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+D:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.Cache
+D:\TP-Unidad3\Sorteos\obj\Debug\Sorteos.frmSorteo.resources
+D:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+D:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+D:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
+D:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+D:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+D:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojResolveAssemblyReference.cache
+D:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.frmSorteo.resources
+D:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+D:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.Cache
+E:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+E:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+E:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
+E:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojResolveAssemblyReference.cache
+E:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.frmSorteo.resources
+E:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+E:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.Cache
+E:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+E:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+F:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+F:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+F:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
+F:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+F:\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+F:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojResolveAssemblyReference.cache
+F:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.frmSorteo.resources
+F:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+F:\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.Cache
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojResolveAssemblyReference.cache
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.frmSorteo.resources
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+D:\Todo21\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.Cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe.config
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.exe
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\bin\Debug\Sorteos.pdb
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csprojAssemblyReference.cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.frmSorteo.resources
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.Properties.Resources.resources
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.GenerateResource.cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.csproj.CoreCompileInputs.cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.exe
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\TP Practica\TP-Unidad3\Sorteos\obj\Debug\Sorteos.pdb
